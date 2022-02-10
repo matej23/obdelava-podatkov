@@ -1,6 +1,7 @@
 # obdelava-podatkov
 Projekt je nastal v okviru predmeta programiranje 1 (študijsko leto 2021/2022) na Fakulteti za matematiko in fiziko v Ljubljani.<br>
 V mapi so zbrane datoteke potrebne za obdelavo. Zajem podatkov je narejen prek python datoteke v mapi, ki ima tudi temu primerno ime. Html datoteke, prek katerih bo le-ta uspel prejeti podatke, je prav tako shranjen v mapi, podatki pa so urejeni v obliki slovarja ({leto : html}). V mapi sta potem še dva csv datoteki (razlika opisana spodaj), prek katerih je nato storjena analiza v istoimenski datoteki.
+(Datoteka z vzorcem igralca je tam le za pomoč pri sestavi regularnih izrazov)
 
 # Avtor 
 Matej Novoselec
