@@ -31,8 +31,13 @@ Najbolj smiselni in primerni podatki za obdelavo so sledeči/navedeni spodaj, ki
 
 # Delovne hipoteze:
 -HIPOTEZA 1: Vsaka pozicija je v ligi številčno enakomerno zastopana (igralcev posamezne pozicije je okvirno enako)<br>
+
 -HIPOTEZA 2: Igralci pozicij G (guards) dosežejo povprečno več točk na tekmo kot igralci pozicij F (forwards)<br>
+
 -HIPOTEZA 3: Igralci pozicij G (guards) dosežejo povprečno več asistenc na tekmo kot igralci pozicij F (forwards) in igralci pozicije C (center) skupaj<br>
+
 -HIPOTEZA 4: igralci pozicije C (center), dosežejo povprečno več skokov, kot igralci pozicij F (forwards) in G (guards) skupaj<br>
--HIPOTEZA 5: Igralci pozicij g (guards) imajo največji odstotek meta (povsod-skupni odstotek), sledijo jih igralci pozicij F (forwards) in nato igralci pozicije C (center)
+
+-HIPOTEZA 5: Igralci pozicij G (guards) imajo največji odstotek meta (povsod-skupni odstotek), sledijo jih igralci pozicij F (forwards) in nato igralci pozicije C (center)<br>
+
 -HIPOTEZA 6: Igralec z boljših odstotkom meta za 3 ima tudi boljši odstotek meta za 2 (obstaja korelacija med odstotkom meta za 2 in odstotkom meta za 3)<br>
