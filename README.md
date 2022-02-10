@@ -33,7 +33,7 @@ Najbolj smiselni in primerni podatki za obdelavo so sledeči/navedeni spodaj, ki
 # Delovne hipoteze:
 -HIPOTEZA 1: Vsaka pozicija je v ligi številčno enakomerno zastopana (igralcev posamezne pozicije je okvirno enako)<br>
 
--HIPOTEZA 2: Igralci pozicij G (guards) dosežejo povprečno več točk na tekmo kot igralci pozicij F (forwards)<br>
+-HIPOTEZA 2: Igralci pozicij G (guards) dosežejo povprečno več točk na tekmo kot igralci pozicij F (forwards) in igralci pozicije C (center) <br>
 
 -HIPOTEZA 3: Igralci pozicij G (guards) dosežejo povprečno več asistenc na tekmo kot igralci pozicij F (forwards) in igralci pozicije C (center) skupaj<br>
 
