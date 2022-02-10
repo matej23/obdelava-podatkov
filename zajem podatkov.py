@@ -3,10 +3,10 @@ import re
 import os
 import csv
 
-file_directory = 'C:/Users/matej/OneDrive/Namizje/obdelava podatkov/obdelava-podatkov---programiranje-1'
+file_directory = 'C:/Users/matej/OneDrive/Namizje/obdelava-podatkov'
 frontpage_filename = 'index_players.html'
-csv_filename = 'players.csv'
-csv_new_filename = 'player_final_file.csv'
+csv_filename = 'players_repeat.csv'
+csv_new_filename = 'players.csv'
 
 def download_url_to_string(url):
     try:
@@ -137,7 +137,7 @@ def final_data_players_from_seasons(all_players):
             else:
                 pass
         #sestejemo vse podatke za igralca po kategorijah po sezonah 
-        fg_pct = round(ft_pct/len(list_data_player),2)
+        fg_pct = round(fg_pct/len(list_data_player),2)
         fg3_pct = round(fg3_pct/len(list_data_player),2)
         fg2_pct = round(fg2_pct/len(list_data_player),2)
         ft_pct = round(ft_pct/len(list_data_player),2) 
