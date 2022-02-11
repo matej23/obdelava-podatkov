@@ -39,7 +39,7 @@ Najbolj smiselni in primerni podatki za obdelavo so sledeči/navedeni spodaj, ki
 
 -HIPOTEZA 4: Igralci pozicije C (center) in igralci pozicije PF, dosežejo povprečno več skokov, kot igralci pozicij SF in G (guards) skupaj. Igralci C zabeležijo največ skokov.<br>
 
--HIPOTEZA 5: Igralci pozicij G (guards) imajo največji odstotek meta (povsod), sledijo jih igralci pozicij F (forwards) in nato igralci pozicije C (center)<br>
+-HIPOTEZA 5: Igralci pozicij G (guards) imajo največji odstotek meta (tako iz igre kot tudi prostih metov), sledijo jih igralci pozicij F (forwards) in nato igralci pozicije C (center)<br>
 
 -HIPOTEZA 6: Igralec z boljših odstotkom meta za 3 ima tudi boljši odstotek meta za 2 (obstaja korelacija med odstotkom meta za 2 in odstotkom meta za 3). Prav tako ima igralec z boljših odstotkom meta za 3 boljši odstotek zadetih prostih metov.<br>
 
