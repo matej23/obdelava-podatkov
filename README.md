@@ -42,3 +42,5 @@ Najbolj smiselni in primerni podatki za obdelavo so sledeči/navedeni spodaj, ki
 -HIPOTEZA 5: Igralci pozicij G (guards) imajo največji odstotek meta (povsod), sledijo jih igralci pozicij F (forwards) in nato igralci pozicije C (center)<br>
 
 -HIPOTEZA 6: Igralec z boljših odstotkom meta za 3 ima tudi boljši odstotek meta za 2 (obstaja korelacija med odstotkom meta za 2 in odstotkom meta za 3). Prav tako ima igralec z boljših odstotkom meta za 3 boljši odstotek zadetih prostih metov.<br>
+
+-HIPOTEZA 7: Igralci z večjim povprečjem doseženimi točkam imajo tudi boljših odstotkom meta iz igre.
