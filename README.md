@@ -21,7 +21,7 @@ players_repeat.csv datoteka ima zajete podatke po igralcih, podatki pa se lahko 
 Najbolj smiselni in primerni podatki za obdelavo so sledeči/navedeni spodaj, ki jih bom tudi analiziral: <br>
 
 -ime, priimek<br>
--pozicijo (obstaja 5 pozicij PG, SG, PF, SF, C - poziciji, ki se končata na G predstvaljata igralce pozicije G, poziciji ki se končata z F predstavljata pozicijo forward, črka C pa predstavlja igralca pozicije center)<br>
+-pozicijo (obstaja 5 pozicij PG, SG, PF, SF, C - poziciji, ki se končata na G predstvaljata igralce pozicije guards, poziciji ki se končata z F predstavljata pozicijo forward, črka C pa predstavlja igralca pozicije center)<br>
 -povprečje metov (iz igre, tako metov za 3 kot tudi za 2 točke)<br>
 -povprečni odstotek meta za 2
 -povprečni odstotek meta za 3
@@ -31,15 +31,15 @@ Najbolj smiselni in primerni podatki za obdelavo so sledeči/navedeni spodaj, ki
 -povprečno število skokov
 
 # Delovne hipoteze:
--HIPOTEZA 1: Vsaka pozicija je v ligi številčno enakomerno zastopana (igralcev posamezne pozicije je okvirno enako)<br>
+-HIPOTEZA 1: Vsaka pozicija je v ligi številčno enakomerno zastopana (igralcev posamezne pozicije je okvirno enako).<br>
 
--HIPOTEZA 2: Igralci pozicij G (guards) dosežejo povprečno več točk na tekmo kot igralci pozicij F (forwards) in igralci pozicije C (center) <br>
+-HIPOTEZA 2: Igralci pozicij G (guards) dosežejo povprečno več točk na tekmo kot igralci pozicij F (forwards) in igralci pozicije C (center). <br>
 
--HIPOTEZA 3: Igralci pozicij G (guards) dosežejo povprečno več asistenc na tekmo kot igralci pozicij F (forwards) in igralci pozicije C (center) skupaj<br>
+-HIPOTEZA 3: Igralci pozicij G (guards) dosežejo povprečno več asistenc na tekmo kot igralci pozicij F (forwards) in igralci pozicije C (center) skupaj.<br>
 
 -HIPOTEZA 4: Igralci pozicije C (center) in igralci pozicije PF, dosežejo povprečno več skokov, kot igralci pozicij SF in G (guards) skupaj. Igralci C zabeležijo največ skokov.<br>
 
--HIPOTEZA 5: Igralci pozicij G (guards) imajo največji odstotek meta (tako iz igre kot tudi prostih metov), sledijo jih igralci pozicij F (forwards) in nato igralci pozicije C (center)<br>
+-HIPOTEZA 5: Igralci pozicij G (guards) imajo največji odstotek meta (tako iz igre kot tudi prostih metov), sledijo jih igralci pozicij F (forwards) in nato igralci pozicije C (center).<br>
 
 -HIPOTEZA 6: Igralec z boljših odstotkom meta za 3 ima tudi boljši odstotek meta za 2 (obstaja korelacija med odstotkom meta za 2 in odstotkom meta za 3). Prav tako ima igralec z boljših odstotkom meta za 3 boljši odstotek zadetih prostih metov.<br>
 
