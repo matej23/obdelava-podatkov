@@ -1,17 +1,17 @@
 # obdelava-podatkov
 Projekt je nastal v okviru predmeta programiranje 1 (študijsko leto 2021/2022) na Fakulteti za matematiko in fiziko v Ljubljani.<br>
-V mapi so zbrane datoteke potrebne za obdelavo. Zajem podatkov je narejen prek python datoteke v mapi, ki ima tudi temu primerno ime. Html datoteke, prek katerih bo le-ta uspel prejeti podatke, je prav tako shranjen v mapi, podatki pa so urejeni v obliki slovarja ({leto : html}). V mapi sta potem še dva csv datoteki (razlika opisana spodaj), prek katerih je nato storjena analiza v istoimenski datoteki.
-(Datoteka z vzorcem igralca je tam le za pomoč pri sestavi regularnih izrazov)
+V mapi so zbrane datoteke potrebne za obdelavo. Zajem podatkov je narejen prek python datoteke v mapi, ki ima tudi temu primerno ime. Html datoteke, prek katerih bo le-ta uspel prejeti podatke, je prav tako shranjen v mapi, podatki pa so urejeni v obliki slovarja ({leto : html}). V mapi sta potem še dve csv datoteki (razlika opisana spodaj), prek katerih je nato storjena analiza v istoimenski datoteki.
+(Datoteka z vzorcem igralca je tam le za pomoč pri sestavi regularnih izrazov).
 
 # Avtor 
 Matej Novoselec
 
 # IGRALCI LIGE NBA
-Analiziral bom statistiko/podatke o igralcih iz ameriške lige NBA, v sezonah, ko je dostop do podatkov mogoč (1996/97-2020/21). Te podatke, ki ji bom po letih dobil na povezavi: https://www.nba.com/stats/players/traditional/?SeasonType=Regular%20Season&sort=PTS&dir=-1&Season=2020-21, bom nato še dopolnil s podatki, ki jih bom dobil iz širše baze, ki jo prav tako vodi NBA in je na povezavi: https://www.nba.com/players, če omogočimo "show historic"
+Analiziral bom statistiko/podatke o igralcih iz ameriške lige NBA, v sezonah, ko je dostop do podatkov mogoč (1996/97-2020/21). Te podatke, ki ji bom po letih dobil na povezavi: https://www.nba.com/stats/players/traditional/?SeasonType=Regular%20Season&sort=PTS&dir=-1&Season=2020-21, bom nato še dopolnil s podatki, ki jih bom dobil iz širše baze, ki jo prav tako vodi NBA in je na povezavi: https://www.nba.com/players, če omogočimo "show historic".
 
 # OPOMBA
 Po posvetu z asistentom, sem se odločil spletno stran iz katere bom zajemal podatke spremeniti (zajem je bil prek prejsne strani pretežek - potrebno bi bilo znanje zajemanja s pomočjo JavaScripta). Glavni podatki, ki sem jih imel namen zajeti na novo izbrani strani/straneh se na določenih mestih prekrivajo, zato ne bo potrebno spremeniti vseh hipotez. <br>
-Url novih strani: od let https://www.basketball-reference.com/leagues/NBA_1980_per_game.html do https://www.basketball-reference.com/leagues/NBA_2020_per_game.html<br>
+Url novih strani poteka po letih, od let https://www.basketball-reference.com/leagues/NBA_1980_per_game.html do https://www.basketball-reference.com/leagues/NBA_2020_per_game.html<br>
 
 # CSV DATOTEKI
 V projektu sta priloženi 2 csv datoteki, obe vsebujeta iste tipe podatkov (smiselno navedeni spodaj- podatki, ki jih bom zajel za vsakega igralca, njihov pomen pa je naveden tudi v prvi vrstici vsake izmed csv datotek).<br>
